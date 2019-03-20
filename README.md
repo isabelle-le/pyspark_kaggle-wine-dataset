@@ -2,7 +2,7 @@
 it is my first project with pyspark.
 
 # Dataset
-it is a red wine of Portugal com, has 1599 obs, 11 independent vars and 1 dependent var
+it is a red wine of Portugal com, has 1599 obs, 11 independent vars and 1 dependent var.
 Please access this link to understand dataset and download it
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
